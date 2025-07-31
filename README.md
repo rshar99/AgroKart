@@ -1,6 +1,6 @@
 
 # AgroKart
-This is the online hybrid application which helps farmers to sell their agriculture produce over online and also allows to be in touch with experts to get answers to their queries and get the prediction on the best possible crop to be chosen for the highest possible reward function
+This is the online hybrid application which helps farmers to sell their agriculture produce online and also allows to be in touch with experts to get answers to their queries and get the prediction on the best possible crop to be chosen for the highest possible reward function.
 
 ## Requirments
 - Apache 
